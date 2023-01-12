@@ -73,4 +73,52 @@
 
 // 9.Дано натуральне число. Знайти та вивести на сторінку всі його дільники.
 
+// let number = prompt('Enter number');
 
+// for(let i=1;i <= 10000;i++) {
+//     if(number % i == 0) {
+//         console.log(i);
+//     }
+// }
+
+// 10.Визначити кількість його парних дільників.
+
+// let number = prompt('Enter number');
+
+// let amount = 0;
+
+// for(let i=1;i <= 10000;i++) {
+//     if(number % i == 0) {
+//         if(i % 2 == 0) {
+//             console.log(i);
+//             amount = amount + 1;
+//         }
+        
+//     }
+// }
+// console.log(`amount is ${amount}`);
+
+// 11. 
+
+// let number = prompt('Enter number');
+
+// let sum = 0;
+
+// for(let i=1;i <= 10000;i++) {
+//     if(number % i == 0) {
+//         if(i % 2 == 0) {
+//             console.log(i);
+//             sum = sum + i;
+//         }
+        
+//     }
+// }
+// console.log(`sum is ${sum}`);
+
+// 12.Надрукувати повну таблицю множення від 1 до 10.
+
+// for(let i = 1;i <= 10;i++) {
+//     for(let j = 1;j <=10;j++) {
+//         console.log(`${i}*${j}=${i*j}`)
+//     }
+// }
