@@ -74,37 +74,3 @@
 // 9.Дано натуральне число. Знайти та вивести на сторінку всі його дільники.
 
 
-
-// for(let i = 0; i <= 10; i++) {
-//     if(i === 5) {
-//         continue;
-//     }
-//     console.log(`Lift up ${i} from loop`)
-// }
-
-// let i = 1;
-
-// do {
-//     console.log(`Lift up ${i} from do while`);
-//     i = i + 1;
-// } while(i <= 10);
-
-// let i = 1
-// while (i <= 10) {
-//     console.log(i);
-//     i = i + 1;
-// }
-
-// let str = '10';
-
-// for(let i = 11;i <= 20;i++) {
-//     str = str + ', ' + i;
-// }
-
-// console.log(str);
-
-// for (let i = 1;i <= 10; i++) {
-//     console.log(i*7)
-// }
-
-// for(i=1;i <= 15; i++)
